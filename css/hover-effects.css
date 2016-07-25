@@ -2,7 +2,7 @@
 .clearfix:before, .clearfix:after { content: ''; display: table; }
 .clearfix:after { clear: both; }
 
-body {
+#branches body {
 	background: #f6f9fa;
 	color: #536d76;
 	font-weight: 400;
@@ -10,23 +10,23 @@ body {
 	font-family: 'Raleway', Arial, sans-serif;
 }
 
-a {
+#branches a {
 	color: #4f7f90;
 	text-decoration: none;
 	outline: none;
 }
 
-a:hover, a:focus {
+#branches a:hover, a:focus {
 	color: #39545e;
 }
 
-section {
+#branches section {
 	padding: 1em;
 	text-align: center;
 }
 
 /* Header */
-.codrops-header {
+#branches .codrops-header {
 	margin: 0 auto;
 	padding: 4em 1em;
 	text-align: center;
