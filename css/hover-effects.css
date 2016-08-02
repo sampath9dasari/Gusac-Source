@@ -3,7 +3,7 @@
 .clearfix:after { clear: both; }
 
 #branches body {
-	background: #f6f9fa;
+	background: #2196F3;
 	color: #536d76;
 	font-weight: 400;
 	font-size: 1em;
@@ -157,7 +157,7 @@
 	margin: -0.135em;
 	width: 33.333%;
 	height: 400px;
-	background: #3085a3;
+	background: #FF5252;
 	text-align: center;
 	cursor: pointer;
 }
