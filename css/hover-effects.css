@@ -154,8 +154,8 @@
 	z-index: 1;
 	display: inline-block;
 	overflow: hidden;
-	margin: -0.135em;
-	width: 33.333%;
+	margin: 0.135em;
+	width: 31%;
 	height: 400px;
 	background: #FF5252;
 	text-align: center;
