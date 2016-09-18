@@ -27,7 +27,7 @@
 
 /* Header */
 #branches .codrops-header {
-	margin: 0 auto;
+	margin: auto auto;
 	padding: 4em 1em;
 	text-align: center;
 }
@@ -155,7 +155,7 @@
 	display: inline-block;
 	overflow: hidden;
 	margin: 0.135em;
-	width: 31%;
+	width: 31.333%;
 	height: 400px;
 	background: #FF5252;
 	text-align: center;
